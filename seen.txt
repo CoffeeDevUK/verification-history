@@ -253,3 +253,4 @@ did:plc:eclio37ymobqex2ncko63h4r:did:plc:27uxh5pkkafloxrcj4ma7oa4
 did:plc:eclio37ymobqex2ncko63h4r:did:plc:xe45mjhx7c2i5lzpld75yd5w
 did:plc:eclio37ymobqex2ncko63h4r:did:plc:eid52vq774mpvmngnbrn363d
 did:plc:eclio37ymobqex2ncko63h4r:did:plc:y4nvz4m5tcwck5qpuc2s4l7s
+did:plc:eclio37ymobqex2ncko63h4r:did:plc:swyebnfggohcemztmepye2pq
