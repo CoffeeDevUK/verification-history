@@ -684,3 +684,4 @@ did:plc:eclio37ymobqex2ncko63h4r:did:plc:w3vkwuvaqb7mvddyby3g5qho verified on 25
 did:plc:eclio37ymobqex2ncko63h4r:did:plc:k3vwocnlo2pqnij67mej6tqd verified on 25.04.2025
 did:plc:eclio37ymobqex2ncko63h4r:did:plc:qkf5yvuu7w5xbzjvsj3kxli6 verified on 25.04.2025
 did:plc:eclio37ymobqex2ncko63h4r:did:plc:4lnsh46alk3gbgd5tsumbifv verified on 25.04.2025
+did:plc:eclio37ymobqex2ncko63h4r:did:plc:psidng6etkay5zu23itizdxi verified on 25.04.2025
