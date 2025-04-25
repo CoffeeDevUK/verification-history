@@ -678,3 +678,4 @@ test
 did:plc:b2kutgxqlltwc6lhs724cfwr:did:plc:kv337w5guk42wsrjjxqbqfx2 verified on 25.04.2025
 did:plc:b2kutgxqlltwc6lhs724cfwr:did:plc:hw2omhfmkwjjdtjb4imill7b verified on 25.04.2025
 did:plc:b2kutgxqlltwc6lhs724cfwr:did:plc:z2pzwb4newtlavxdtn3xaoql verified on 25.04.2025
+did:plc:b2kutgxqlltwc6lhs724cfwr:did:plc:akhb3a5xcdq7bonutrlqy3va verified on 25.04.2025
