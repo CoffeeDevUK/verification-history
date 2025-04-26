@@ -2,8 +2,8 @@ name: Update Verification History
 
 on:
   schedule:
-    - cron: '0 0 * * *' # every day at midnight UTC
-  workflow_dispatch:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+  workflow_dispatch:      # Allows manual triggering
 
 jobs:
   update-history:
@@ -23,7 +23,7 @@ jobs:
           node-version: '20'
 
       - name: Install dependencies
-        run: npm install node-fetch
+        run: npm install
 
       - name: Run update-history script
         run: node scripts/update-history.js
