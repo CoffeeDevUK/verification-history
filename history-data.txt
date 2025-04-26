@@ -33,5 +33,5 @@
     "The Athletic": 198,
     "WIRED": 66,
     "The New York Times": 79
-  },
+  }
 ]
