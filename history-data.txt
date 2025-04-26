@@ -1,1 +1,9 @@
-
+[
+  {
+    "date": "2025-04-26",
+    "Bluesky": 343,
+    "The Athletic": 204,
+    "WIRED": 66,
+    "The New York Times": 79
+  }
+]
