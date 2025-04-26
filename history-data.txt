@@ -1,5 +1,40 @@
 [
   {
+    "date": "2025-04-21",
+    "Bluesky": 0,
+    "The Athletic": 0,
+    "WIRED": 0,
+    "The New York Times": 0
+  },
+  {
+    "date": "2025-04-22",
+    "Bluesky": 0,
+    "The Athletic": 0,
+    "WIRED": 0,
+    "The New York Times": 0
+  },
+  {
+    "date": "2025-04-23",
+    "Bluesky": 0,
+    "The Athletic": 0,
+    "WIRED": 0,
+    "The New York Times": 0
+  },
+  {
+    "date": "2025-04-24",
+    "Bluesky": 0,
+    "The Athletic": 0,
+    "WIRED": 0,
+    "The New York Times": 0
+  },
+  {
+    "date": "2025-04-25",
+    "Bluesky": 0,
+    "The Athletic": 0,
+    "WIRED": 0,
+    "The New York Times": 0
+  },
+  {
     "date": "2025-04-26",
     "Bluesky": 343,
     "The Athletic": 204,
