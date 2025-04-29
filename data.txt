@@ -689,3 +689,4 @@ did:plc:b2kutgxqlltwc6lhs724cfwr:did:plc:duu23knex4llhpxarx2sq3st verified on 26
 did:plc:b2kutgxqlltwc6lhs724cfwr:did:plc:23tcnfynhqyxs4crh3krm3no verified on 26.04.2025
 did:plc:z72i7hdynmk6r22z27h6tvur:did:plc:ynaepquprngj7h6tockmrjyj verified on 28.04.2025
 did:plc:b2kutgxqlltwc6lhs724cfwr:did:plc:fc7qrgyzawp3nhfbcpauxa6x verified on 29.04.2025
+did:plc:b2kutgxqlltwc6lhs724cfwr:did:plc:kc45t6hexiklwlqimukecvw5 verified on 29.04.2025
