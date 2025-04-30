@@ -709,3 +709,4 @@ did:plc:z72i7hdynmk6r22z27h6tvur:did:plc:lwmiyyhcs43mpjjuqppu4cfq verified on 30
 did:plc:z72i7hdynmk6r22z27h6tvur:did:plc:2mlqk7dt6pjmv25t23gjiigo verified on 30.04.2025
 did:plc:z72i7hdynmk6r22z27h6tvur:did:plc:bybhkdeow67zttcythrzu4p6 verified on 30.04.2025
 did:plc:z72i7hdynmk6r22z27h6tvur:did:plc:4jajixlbh346ugyindwqppwc verified on 30.04.2025
+did:plc:z72i7hdynmk6r22z27h6tvur:did:plc:2v2zzb7mfes6hh4koktf2imk verified on 30.04.2025
