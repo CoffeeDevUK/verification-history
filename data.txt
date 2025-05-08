@@ -719,3 +719,4 @@ did:plc:z72i7hdynmk6r22z27h6tvur:did:plc:h34ltkv6enafp7tvtwbo42ni verified on 08
 did:plc:z72i7hdynmk6r22z27h6tvur:did:plc:kndk6byot3vmiqe44o6rmqgr verified on 08.05.2025
 did:plc:z72i7hdynmk6r22z27h6tvur:did:plc:kqaw5wenmgbyonctl5sehk72 verified on 08.05.2025
 did:plc:z72i7hdynmk6r22z27h6tvur:did:plc:csvszcab4qzb7u6whrpsi4qg verified on 08.05.2025
+did:plc:z72i7hdynmk6r22z27h6tvur:did:plc:o4bvxh4dfct4mln5q6sh77cq verified on 08.05.2025
